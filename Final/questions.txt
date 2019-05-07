@@ -1,0 +1,20 @@
+									**** Test Cases ****
+
+
+**** Simple Queries *****
+who is the lead role in the movie 3_idiots
+in which year did the movie talvar release
+what is the genre of the movie shamitabh
+what is the variation in movie ?
+what is the length of the movie 3_idiots
+
+**** Complex Queries *****
+what is variation in movie s and what is lead role in movie shamitabh and what is release year of movie shamitabh and what is average emotion in movie maatr
+
+who is the lead role in the movie 3_idiots and what is the genre of the movie 3_idiots and what is the release year of the movie 3_idiots
+
+
+**** Image Path ****
+/Users/nikhiljsk/Desktop/maatr.jpg
+/Users/nikhiljsk/Desktop/2.jpg
+
