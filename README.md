@@ -1,4 +1,4 @@
-# GUI for Movie data anaylysis
+# GUI for Movie data analysis
 
 A graphical user interface using QT and Python-3 which is capable of asking the query from user in text format or even in Image format and get the answer from the dataset.
 Used Image processing and open-source visulization libraries  to achieve this. We have also analyzed the emotions of the film 
